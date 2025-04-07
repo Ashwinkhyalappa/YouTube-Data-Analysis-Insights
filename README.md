@@ -65,6 +65,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <!-- Contact -->
 ## Contact 📧
 
-For any questions, inquiries, or collaborations, feel free to reach out to us at [piinartp@gmail.com](mailto:piinartp@gmail.com). We'd love to hear from you!
-
+For any questions, inquiries, or collaborations, feel free to reach out at 22mc3008@rgipt.ac.in ,
 Happy Analyzing! 📊📈
